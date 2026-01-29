@@ -42,8 +42,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
+- 💼 LinkedIn: *([Buddhika Kulasekara](https://www.linkedin.com/in/buddhika-kulasekara-7b7866211/))*
+- 📧 Email: *(kulasekara797@gmail.com)*
 
 ---
 

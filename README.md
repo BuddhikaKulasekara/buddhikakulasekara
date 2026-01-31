@@ -56,30 +56,14 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=buddhikakulasekara&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=buddhikakulasekara&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=buddhikakulasekara&theme=tokyonight)
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhikakulasekara&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=buddhikakulasekara&theme=onestar&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -117,12 +101,10 @@
 </div>
 
 ---
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:203a43,100:0f2027&text=GAME+ON+%F0%9F%94%A5+CODE+HARD&fontColor=00eaff"/>
 
 ⭐ **Thanks for visiting my profile!**
 

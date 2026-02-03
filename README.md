@@ -1,8 +1,8 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:203a43&text=Buddhika%20Kulasekara&fontSize=40&fontColor=00eaff&animation=fadeIn&fontAlignY=35"/>
 
-</div>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120"/>
+</p>
 
 <div align="center">
 

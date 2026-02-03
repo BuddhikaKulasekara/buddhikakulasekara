@@ -52,15 +52,27 @@
 
 ## 📊 PLAYER STATS
 
-</div>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhikakulasekara&theme=dark&show_icons=true&count_private=true&hide_border=true" />
 
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=buddhikakulasekara&theme=tokyonight)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhikakulasekara&theme=dark&hide_border=true" />
 
+</td>
 
-</div>
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhikakulasekara&theme=dark&hide_border=true&layout=compact" />
+
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
